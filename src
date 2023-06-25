@@ -1,1 +1,2 @@
-streamlit run project_k.py
+[build]
+  command = "streamlit run app.py"
